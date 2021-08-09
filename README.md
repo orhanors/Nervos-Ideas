@@ -1,4 +1,4 @@
-# Blockchain workshop
+# Nervos Ideas
 
 Start UI:
 
